@@ -13,3 +13,7 @@ The dataset presented here (the ELLIPSE corpus) comprises argumentative essays w
 Each measure represents a component of proficiency in essay writing, with greater scores corresponding to greater proficiency in that measure. The scores range from 1.0 to 5.0 in increments of 0.5. Your task is to predict the score of each of the six measures for the essays given in the test set.
 
 Some of these essays have appeared in the datasets for the Feedback Prize - Evaluating Student Writing and Feedback Prize - Predicting Effective Arguments competitions. You are welcome to make use of these earlier datasets in this competition.
+
+## 3. Model
+
+5 Fold CV of deBERTa
