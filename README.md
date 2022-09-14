@@ -20,5 +20,7 @@ Some of these essays have appeared in the datasets for the Feedback Prize - Eval
 
 ### Results:
 
+Metric RMSE:
+
 CV: [0.4533, 0.4526, 0.4564, 0.4534, 0.4545]
 Average CV: 0.4541
