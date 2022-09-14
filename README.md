@@ -18,6 +18,10 @@ Some of these essays have appeared in the datasets for the Feedback Prize - Eval
 
 5 Fold CV of deBERTa
 
+Epochs: 5
+Learning Rate: 1e-5
+
+
 ### Results:
 
 CV: [0.4533, 0.4526, 0.4564, 0.4534, 0.4545]
