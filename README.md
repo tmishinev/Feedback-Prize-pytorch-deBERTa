@@ -1,4 +1,4 @@
-# Feedback-Prise-pytorch-deBERTa
+# Feedback-Prize-pytorch-deBERTa
 ### Feedback Prize - English Language Learning (Kaggle) - Evaluating language knowledge of ELL students from grades 8-12
 
 ## 1. Goal of the Competition
